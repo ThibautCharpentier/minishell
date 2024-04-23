@@ -1,6 +1,6 @@
 # minishell
 
-minishell is a team 42 school project where we have to write a little shell. Our program must be able to pars a prompt and to launch executables with arguments along with a few built-in functions.
+minishell is a 42 school team project where we have to write a little shell. Our program must be able to pars a prompt and to launch executables with arguments along with a few built-in functions.
 
 ## Status
 
